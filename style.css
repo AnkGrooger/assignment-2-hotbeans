@@ -1,0 +1,142 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    width: 99%;
+    height: 1000px;
+	position: static;
+    border: 5px solid red;
+    float: left;
+}
+.header{
+    width: 100%;
+    background-color:#333;
+    float: left;
+ } 
+.header  h1{
+	color: white;
+	font-family: Rockwell;
+	text-align: center;
+}
+.content1{
+    width: 100%;
+	height: 100%;
+    background-color: white;
+    font-style: italic
+
+ } 
+ .content2{
+    width: 100%;
+	height: 100%;
+    background-color: darkgrey;
+    font-style: italic
+ } 
+ .content3{
+    width: 100%;
+    height: 100%;
+    background-color: darkgrey;
+    font-style: italic
+    
+ } 
+ .content4{
+    width: 100%;
+    height: 100%;
+    padding: 40px;
+    background-color: darkgrey;
+    font-style: italic
+ } 
+
+ .content5{
+    width: 100%;
+    height: 100%;
+    background-color: darkgrey;
+    font-style: italic
+ }
+
+ .content6{
+    width: 100%;
+    height: 100%;
+    background-color: darkgrey;
+    font-style: italic
+ }
+
+
+ .content7{
+    width: 100%;
+    height: 100%;
+    background-color: darkgrey;
+    font-style: italic
+
+ }
+
+ .button {
+    background-color: #333;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 50px;
+  }
+
+
+  .content12{
+      background-color: darkgrey;
+    font-size: 20px;
+  }
+ .imageWithText
+ {
+	Width:auto;
+	height: 10em;
+	vertical-align:middle;
+ } 
+
+
+
+ .footer{
+    width: 100%;
+	height: 30%;
+    background-color: dimgray;
+    float: left;
+    font-style: italic
+ } 
+
+ table, th, td {
+    margin-left: 50px;
+  }
+
+ 
+.banner{
+    width: 100%;
+    height: 50%;
+    background-color:blue;
+    float: left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: orangered;
+}  
+
+input{
+    width: 500px;
+    height: 40px;
+}
